@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B8D36C"
+    tools:context=".About">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:text="The High School of Montreal was an English-language high school founded in 1843, serving Montreal, Quebec, Canada, in the area eventually known as the Golden Square Mile. It was less formally known as Montreal High School and from 1853 to 1870 was called the High School of McGill College, or the High School Division.
+
+Founded as a school for boys only, girls were first admitted in 1875, although to a separate division called the High School for Girls, and a new building shared by both was opened in 1878. In its last century, the school took children from the first to the twelfth grades. In 1915, after occupying several different sites, the school moved into a new neoclassical building on University Street, near the campus of McGill University. Girls and boys were taught in separate wings of the building and were also apart for school sports, but came together for some activities. The two divisions were united into a single school in 1965.
+
+The school closed in June 1979, largely as the result of a decline in the English-speaking population. Soon after, the mostly French-speaking F.A.C.E. School moved into its empty premises, to be joined by the MIND High School on the third floor. The school was founded in 1843 by a group of Montreal professionals and merchants who saw the need for a Protestant secondary school which respected 19th-century ideas of education. It was modelled on the Royal High School, Edinburgh.[4] Several of the founders, led by James Ferrier, with William Lunn, William Collis Meredith, David Torrance, and the Rev. Henry Esson, were of Presbyterian Scottish origins, and one of their purposes in establishing the school was to provide a solution to the growing influence of Anglicanism in education at the time. In short, they saw a need for a means of access to McGill College not controlled by supporters of the Church of England.
+
+In August 1843, The Gentleman's Magazine reported, under 'Civil Preferments', Rev. G. F. Simpson to be Rector of the Public College of Canada, about to be established at Montreal, suggesting that the name of the school still remained to be decided.
+
+    The school was first organized as a private institution, under a Board of Directors." />
+
+    </LinearLayout>
+</LinearLayout>
